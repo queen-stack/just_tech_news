@@ -1,2 +1,17 @@
-# just_tech_news
-application will use : express sequelize mysql2
+# 13-project
+
+## For `.env`
+
+```plaintext
+DB_NAME=''
+DB_USER=''
+DB_PW=''
+```
+
+## Run All Seeds
+
+```bash
+npm run seeds
+# OR
+node seeds/index.js
+```
